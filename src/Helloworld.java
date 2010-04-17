@@ -23,4 +23,8 @@ public class Helloworld {
 	public void commit1(){
 		//Auto einai to prwto commit
 	}
+	
+	public void commit2(){
+		//Auto einai to deutero commit
+	}
 }
