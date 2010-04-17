@@ -10,5 +10,10 @@ public class Helloworld {
 		System.out.println("this is a simple code change!");
 
 	}
+	
+	
+	public void foo(){
+		System.out.println("A similar 3rd version");
+	}
 
 }
