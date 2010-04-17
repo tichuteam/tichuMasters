@@ -16,4 +16,7 @@ public class Helloworld {
 		System.out.println("A similar 3rd version");
 	}
 
+	public void another(){
+		//Something new....
+	}
 }
