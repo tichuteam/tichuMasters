@@ -19,4 +19,8 @@ public class Helloworld {
 	public void another(){
 		//Something new....
 	}
+	
+	public void commit1(){
+		//Auto einai to prwto commit
+	}
 }
